@@ -7,9 +7,8 @@ function varargout = GUI_EMG(varargin)
 %       EMG)
 %       4) Sample frequency
 %       
-% Outputs:
 %   If "save EMG" is pressed, one saves the indices of the removed (made NaN) strides
-%   as well as the edited EMG.
+%   as well as the edited EMG in a mat-file.
 
 
 %   Authors: 
